@@ -1,9 +1,8 @@
 # Lab 5: Parks
 ## Overview
-In this lab, you'll develop a SwiftUI REST client backed by the National Parks Service API. This app allows users to explore national parks, conveniently filtered by state. 
-By selecting a park, users can navigate to a detailed screen with more comprehensive information, additional images, and a map showcasing the park's location.
-Although some SwiftUI implementation details may be new, your past experience building REST clients with UIKit will provide a strong foundation. 
-So, lace up your hiking boots and get ready to hit the trail!
+In this lab, I built a SwiftUI REST client using the National Parks Service API. This app allows me to explore national parks, filtered by state. By selecting a park, I can navigate to a detailed screen with comprehensive information, additional images, and a map showing the park's location.
+
+Although SwiftUI presented some new challenges, my past experience with building REST clients in UIKit helped me tackle the app's structure and design. This project combined API integration and navigation techniques, allowing me to further enhance my SwiftUI development skills.
 
 ## Features
 * View a list of parks fetched from the National Parks API.
