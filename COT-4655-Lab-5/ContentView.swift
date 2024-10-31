@@ -39,7 +39,7 @@ struct ContentView: View {
     private func fetchParks() async {
         // URL for the API endpoint
         // 👋👋👋 Make sure to replace {YOUR_API_KEY} in the URL with your actual NPS API Key
-        let url = URL(string: "https://developer.nps.gov/api/v1/parks?stateCode=FL&api_key=2BTx7VqQApZf5Od7RyflEMwmKkOKxhb9IlqRUqcm")!
+        let url = URL(string: "your own API key")!
         
         do {
 
