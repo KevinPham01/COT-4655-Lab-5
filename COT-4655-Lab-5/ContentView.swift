@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-private let API_KEY = "2BTx7VqQApZf5Od7RyflEMwmKkOKxhb9IlqRUqcm"
+private let API_KEY = "Enter your API KEY"
 
 struct ContentView: View {
 
